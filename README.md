@@ -10,7 +10,7 @@ A fun, interactive Etch-A-Sketch web application built using HTML, CSS, and Java
 
 ## Demo
 
-Check out the live demo: [Etch-A-Sketch](#) (Replace `#` with your live demo URL)
+Check out the live demo: [Etch-A-Sketch](https://christian783.github.io/Etch-a-Sketch/)
 
 ![Etch-A-Sketch Demo](screenshot/Screenshot.png)
 
