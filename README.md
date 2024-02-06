@@ -25,5 +25,5 @@ Check out the live demo: [Etch-A-Sketch](https://christian783.github.io/Etch-a-S
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/etch-a-sketch.git
-   cd etch-a-sketch
+   git clone https://github.com/christian783/Etch-a-Sketch.git
+   cd Etch-a-Sketch
